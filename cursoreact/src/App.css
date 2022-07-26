@@ -1,0 +1,11 @@
+.container {
+    background-color: rgb(43, 43, 43);
+    max-width: 500px;
+    margin: 30px auto;
+    /* A propriedade CSS overflow controla o que acontece com o conteúdo grande demais para caber em uma área. */
+    overflow: auto;
+    min-height: 300px;
+    border: 2px solid rgb(0, 112, 240);
+    padding: 30px;
+    border-radius: 10px;
+}
